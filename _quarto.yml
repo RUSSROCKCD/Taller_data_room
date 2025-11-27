@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Plan de inversión: Creando tu Data Room"
+  navbar:
+    left:
+      - href: tallerdr.qmd
+        text: Inicio
